@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock_Watchlist</string>
+
+    <string name="file_name">stockFile.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No JSON Note File Present</string>
+    <string name="saved">Stock Saved!</string>
+    <string name="not_saved">Stock NOT Saved!</string>
+</resources>
